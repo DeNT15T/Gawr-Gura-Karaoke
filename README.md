@@ -12,7 +12,7 @@ youtube 在直播時音訊必然經過一次的有損壓縮，為了避免不必
 將歌手與曲名一併整理，方便自行尋找原唱回味
 
 # 加入 membershrimp 立即解鎖會限歌回！
-檔名有 membershrimp 的會限歌回都有密碼，密碼為會限歌回時 Gura 在社群發文的會限文章，以下提示前三碼以供比對。\
+檔名有 membershrimp 的檔案都有密碼，密碼為會限歌回時 Gura 在社群發文的會限文章，以下提示前三碼以供查找。\
 
 ### 2020-10-22 membershrimp mini karaoke.rar
 oho
