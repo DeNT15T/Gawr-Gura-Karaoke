@@ -11,13 +11,12 @@
 鯊魚喜歡唱city pop/鄉村老歌，而老歌經常有不同歌手cover出不同版本的情況\
 將歌手與曲名一併整理，方便自行尋找原唱回味
 
-# 會限歌回密碼
+# 加入 membershrimp 立即解鎖會限歌回！
 檔名有 membershrimp 的會限歌回都有密碼，密碼為會限歌回時 Gura 在社群發文的會限文章，以下提示前三碼以供比對。\
-加入 membershrimp 立即解鎖！
 
-#### 2020-10-22 membershrimp mini karaoke.rar
+### 2020-10-22 membershrimp mini karaoke.rar
 oho
-#### 2020-11-01 membershrimp 1st(campfire) karaoke.rar
+### 2020-11-01 membershrimp 1st(campfire) karaoke.rar
 Aft
-#### 2020-11-14 membershrimp 2nd karaoke.rar
+### 2020-11-14 membershrimp 2nd karaoke.rar
 We'
