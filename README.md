@@ -1,2 +1,5 @@
 # Gawr-Gura-Karaoke
-shaaark
+興趣使然的整理！
+
+# Feature
+## 1.
