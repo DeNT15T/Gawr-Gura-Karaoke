@@ -15,9 +15,9 @@ swinging up with the shark beats!\
 鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，將歌手與曲名一併整理，方便您自行尋找原唱版。
 
 # [加入 MemberShrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 解鎖會限歌回！
-# [Join MemberShrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) to get the password of archived file！
 ![join](https://i.imgur.com/H2zz5L0.png)\
 檔名有 membershrimp 的壓縮檔需要密碼，為該次會限歌回 Gura 在[社群](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/community)發布的會限文章，以下提示前三字元以供查找。
+
 
 ### 2020-10-22 membershrimp mini karaoke.rar
 oho
