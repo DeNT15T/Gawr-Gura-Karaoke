@@ -5,15 +5,15 @@ swinging up with the shark beats!\
 
 # Features
 ### 1.音質
-youtube 必然有損壓縮一次音訊，為了避免不必要的額外有損壓縮，使用 [youtube-dl](https://youtube-dl.org/) 抓取最高音質的音檔，再使用 [LosslessCut](https://github.com/mifi/lossless-cut) 剪輯，避免音質損失。
+為了減少不必要的有損壓縮，使用 [youtube-dl](https://youtube-dl.org/) 抓取最高音質的音檔，再使用 [LosslessCut](https://github.com/mifi/lossless-cut) 剪輯，保持音質。
 
 ### 2.容量
-由於可在不額外損失音質的前提下剪輯，無須轉檔為檔案肥大的無損格式，維持迷你的容量。
+由於可在保持音質的前提下剪輯，無須另外輸出為檔案較大的無損格式，保持迷你的容量。
 
 ### 3.資訊
 ![tags](https://i.imgur.com/AXJSICW.jpg)\
-鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況\
-將歌手與曲名一併整理，方便自行尋找原唱。日期以GMT+8為準。
+鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，\
+將歌手與曲名一併整理，方便您自行尋找原唱版。
 
 # [立即加入 membershrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 解鎖會限歌回！
 ![join](https://i.imgur.com/H2zz5L0.png)\
@@ -25,3 +25,7 @@ oho
 Aft
 ### 2020-11-14 membershrimp 2nd karaoke.rar
 We'
+
+# Art credits
+https://twitter.com/walfieee/status/1327092349395214336?s=20
+https://www.pixiv.net/artworks/84425998
