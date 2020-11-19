@@ -12,8 +12,7 @@ swinging up with the shark beats!\
 
 ### 3.資訊
 ![tags](https://i.imgur.com/AXJSICW.jpg)\
-鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，\
-將歌手與曲名一併整理，方便您自行尋找原唱版。
+鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，將歌手與曲名一併整理，方便您自行尋找原唱版。
 
 # [立即加入 membershrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 解鎖會限歌回！
 ![join](https://i.imgur.com/H2zz5L0.png)\
