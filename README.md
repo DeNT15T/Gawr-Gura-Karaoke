@@ -15,7 +15,7 @@ youtube 必然有損壓縮一次音訊，為了避免不必要的額外有損壓
 將歌手與曲名一併整理，方便自行尋找原唱。\
 日期以GMT+8為準。
 
-# 加入 membershrimp 立即解鎖會限歌回！
+# [加入 membershrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 立即解鎖會限歌回！
 ![shrimp](https://i.imgur.com/lP1SvAy.png)\
 檔名有 membershrimp 的壓縮檔需要密碼，為該次會限歌回 Gura 在社群發文的會限文章，以下提示前三字元以供查找。
 
