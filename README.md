@@ -5,14 +5,14 @@ swinging up with the shark beats!\
 
 # Features
 ### 1.音質
-減少不必要的有損壓縮，使用 [youtube-dl](https://youtube-dl.org/) 抓取最高音質的音檔，再使用 [LosslessCut](https://github.com/mifi/lossless-cut) 剪輯，保持音質。
+避免不必要的有損壓縮，使用 [youtube-dl](https://youtube-dl.org/) 抓取最高音質的音檔，再使用 [LosslessCut](https://github.com/mifi/lossless-cut) 剪輯，保持音質。
 
 ### 2.容量
 由於可在保持音質的前提下剪輯，無須另外輸出為檔案較大的無損格式，保持迷你的容量。
 
 ### 3.資訊
 ![tags](https://i.imgur.com/AXJSICW.jpg)\
-鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，將歌手與曲名一併整理，方便您自行尋找原唱版。
+鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，將歌手與曲名一併整理，方便自行尋找原唱版。
 
 # [加入 MemberShrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 解鎖會限歌回！
 ![join](https://i.imgur.com/H2zz5L0.png)\
