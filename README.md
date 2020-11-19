@@ -4,7 +4,7 @@ swinging up with the shark beats!
 
 # Features
 ### 1.音質
-youtube 必然有損壓縮一次音訊，為了避免不必要的額外有損壓縮，使用 [youtube-dl](https://youtube-dl.org/) 抓取最高音質的音檔，再使用 [LosslessCut](https://github.com/mifi/lossless-cut/releases) 剪輯，避免音質損失。
+youtube 必然有損壓縮一次音訊，為了避免不必要的額外有損壓縮，使用 [youtube-dl](https://youtube-dl.org/) 抓取最高音質的音檔，再使用 [LosslessCut](https://github.com/mifi/lossless-cut) 剪輯，避免音質損失。
 
 ### 2.容量
 由於可在不額外損失音質的前提下剪輯，無須轉檔為檔案肥大的無損格式，維持迷你的容量。
