@@ -10,7 +10,7 @@ youtube 必然有損壓縮一次音訊，為了避免不必要的額外有損壓
 由於可在不額外損失音質的前提下剪輯，無須轉檔為檔案肥大的無損格式，維持迷你的容量。
 
 ### 3.資訊
-![tags](https://i.imgur.com/AXJSICW.jpg)
+![tags](https://i.imgur.com/AXJSICW.jpg)\
 鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況\
 將歌手與曲名一併整理，方便自行尋找原唱。\
 日期以GMT+8為準。
