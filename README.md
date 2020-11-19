@@ -17,7 +17,7 @@ swinging up with the shark beats!\
 
 # [立即加入 membershrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 解鎖會限歌回！
 ![join](https://i.imgur.com/H2zz5L0.png)\
-檔名有 membershrimp 的壓縮檔需要密碼，為該次會限歌回 Gura 在社群發文的會限文章，以下提示前三字元以供查找。
+檔名有 membershrimp 的壓縮檔需要密碼，為該次會限歌回 Gura 在[社群](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/community)發布的會限文章，以下提示前三字元以供查找。
 
 ### 2020-10-22 membershrimp mini karaoke.rar
 oho
