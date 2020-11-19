@@ -1,5 +1,5 @@
 # Gawr-Gura-Karaoke
-沒網路，也能聽好聽滿鯊魚歌！
+沒網路，也能聽好聽滿鯊魚歌！\
 swinging up with the shark beats!
 
 # Features
