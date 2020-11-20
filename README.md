@@ -26,9 +26,9 @@ oho
 Aft
 ### 2020-11-14 membershrimp 2nd karaoke.rar
 We'
+
+> "It's a shrimp that is also the sun because you guys are also my sunlight so thank you. you are my sunlight on rainy days."
 ![shrimp](https://i.imgur.com/LRMF9v5.jpg)
-> "It's a shrimp that is also the sun because you guys are also my sunlight so thank you."
-> "you are my sunlight on rainy days."
 
 # Art credits
 https://twitter.com/walfieee/status/1327092349395214336?s=20 \
