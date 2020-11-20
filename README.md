@@ -29,7 +29,7 @@ We'
 
 ---
 > ![shrimp](https://i.imgur.com/LRMF9v5.jpg)\
-> You are my sunlight on rainy days.
+> "You are my sunlight on rainy days." (Gawr Gura)
 
 # Art credits
 https://twitter.com/walfieee/status/1327092349395214336?s=20 \
