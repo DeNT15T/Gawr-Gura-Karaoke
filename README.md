@@ -12,7 +12,7 @@ swinging up with the shark beats!\
 
 ### 3.資訊
 ![tags](https://i.imgur.com/AXJSICW.jpg)\
-鯊魚常唱city pop/鄉村老歌，經常有不同歌手cover不同版本的情況，將歌手與曲名一併整理，方便自行尋找原唱版。
+將歌手、曲名等等資訊一併整理，方便自行尋找原唱版。
 
 # [加入 MemberShrimp](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/join) 解鎖會限歌回！
 ![join](https://i.imgur.com/H2zz5L0.png)\
@@ -26,6 +26,9 @@ oho
 Aft
 ### 2020-11-14 membershrimp 2nd karaoke.rar
 We'
+![shrimp](https://i.imgur.com/LRMF9v5.jpg)
+> "It's a shrimp that is also the sun because you guys are also my sunlight so thank you."
+> "you are my sunlight on rainy days."
 
 # Art credits
 https://twitter.com/walfieee/status/1327092349395214336?s=20 \
