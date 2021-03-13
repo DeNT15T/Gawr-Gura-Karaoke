@@ -35,11 +35,11 @@ We'
 2020-12-20 3rd karaoke(Xmas)\
 2020-12-21 membershrimp 3rd karaoke(jazz)\
 2021-01-23 4st karaoke(2M)\
-2021-01-16 membershrimp 4st karaoke(ukulele)\
+2021-01-16 membershrimp 4th karaoke(ukulele)\
 2021-01-31 mini karaoke(ft.priconne)\
 2021-02-15 Vday karaoke\
-2021-02-24 membershrimp 4st karaoke\
-2021-03-12 membershrimp 5st karaoke
+2021-02-24 membershrimp 5th karaoke\
+2021-03-12 membershrimp 6th karaoke
 
 # Art credits
 https://twitter.com/walfieee/status/1327092349395214336?s=20 \
