@@ -26,6 +26,8 @@ oho
 Aft
 ### 2020-11-14 membershrimp 2nd karaoke.rar
 We'
+### 2021-02-24 membershrimp 5th karaoke.rar
+nex
 
 ---
 > ![shrimp](https://i.imgur.com/LRMF9v5.jpg)\
@@ -38,7 +40,6 @@ We'
 2021-01-16 membershrimp 4th karaoke(ukulele)\
 2021-01-31 mini karaoke(ft.priconne)\
 2021-02-15 Vday karaoke\
-2021-02-24 membershrimp 5th karaoke\
 2021-03-12 membershrimp 6th karaoke
 
 # Art credits
